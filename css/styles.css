@@ -16,11 +16,6 @@ body {
   background-color: #000;
 }
 
-img, video {
-  max-width: 100%;
-  display: block;
-}
-
 /* Style rule for box sizing applies to all elements */
 * {
   box-sizing: border-box;
